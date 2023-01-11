@@ -1,0 +1,67 @@
+
+
+  
+  .main-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    align-items: center;
+  }
+  
+  .coment-flexbox {
+    display:flex;
+    flex-direction: column;
+    align-items: flex-start;  
+  }
+  
+  
+  /* the title on top of input box*/
+  
+  .comment-text {
+    margin: 10px 0;
+    font-size: 1rem;
+    font-weight: bold;  
+    color: white;
+    
+  }
+  
+  
+  /*the box to write the message*/
+  
+  .input-box {    
+    height: 150px;
+    width: 420px;
+    padding: 10px;
+    margin-top: -12px;
+    background-color: #f5cece;   
+    
+  }
+  
+  /* Submit button onclick */
+  
+  .comment-button {
+    height: 40px;
+    width: 60px;
+    background-color: #ee7979;
+    color: white;
+    font-size: 1.05rem;
+    margin-top: 10px;
+    border-radius: 5px;
+    border-style: none;
+    cursor: pointer;
+    text-align: center;
+  }
+  
+  
+  .comment-container {
+    height: 35px;      
+    width: 280px;
+    padding: 25px;
+    color: red;
+    background-color: #f5cece;
+    border: 5px;
+    margin: 10px 0;
+    word-break: break-all;
+    border-radius: 15px;
+    font-family: "Lucida Console", "Courier New", monospace;
+  }
