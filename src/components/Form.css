@@ -33,32 +33,34 @@
     width: 420px;
     padding: 10px;
     margin-top: -12px;
-    background-color: #f5cece;   
+    background-color: #f5e2bc;
     
   }
   
   /* Submit button onclick */
   
   .comment-button {
-    height: 40px;
-    width: 60px;
+    height: 30px;
+    width: 70px;
     background-color: #ee7979;
     color: white;
     font-size: 1.05rem;
     margin-top: 10px;
-    border-radius: 5px;
+    border-radius: 15px;
     border-style: none;
     cursor: pointer;
     text-align: center;
   }
   
   
+  /* comment result */
+
   .comment-container {
     height: 35px;      
     width: 280px;
     padding: 25px;
     color: red;
-    background-color: #f5cece;
+    background-color: #fffafa;
     border: 5px;
     margin: 10px 0;
     word-break: break-all;
