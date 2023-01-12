@@ -25,7 +25,7 @@
   }
   
   
-  /*the box to write the message*/
+  /*the input box to write the message*/
   
   .input-box {    
     height: 150px;
@@ -42,7 +42,7 @@
     height: 30px;
     width: 70px;
     background-color: #ee7979;
-    color: white;
+    color: #fff;
     font-size: 1.05rem;
     margin-top: 10px;
     border-radius: 15px;
